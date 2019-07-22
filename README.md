@@ -33,7 +33,7 @@ There is space for parking, if you are planning to drive to camp, let us know an
 Vline run several services a day that stop in Kyneton. The campsite is about 10 minutes drive from the station.
 
 ## Venue
-We will be staying at the beautiful [Campaspe Downs Camp] (http://www.pgladventurecamps.com.au/campaspe/), ten minutes drive from Kyneton.
+We will be staying at the beautiful [Campaspe Downs Camp](http://www.pgladventurecamps.com.au/campaspe/), ten minutes drive from Kyneton.
 
 ## Food
 We have some plans for some excellent food options from local providers!
