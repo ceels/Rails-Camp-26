@@ -1,6 +1,11 @@
 # Rails-Camp-26
 15th-18th November 2019 in Kyneton (north of Melbourne, Victoria)
 
+## Buy tickets
+[Tickets are now available for camp.](https://ti.to/ruby-australia/rails-camp-26-melbourne) 
+We have two prices, 'Attendee' and 'Concession'. Concession is available for concession card holders and 
+students (including people aged 6-17) though anyone under the age of 18 needs to be accompanied by a parental unit.
+
 ## Unconference
 We are running an unconference at Rails Camp 26. 
 
