@@ -17,7 +17,13 @@ and workshops/group activities under 3 hours.
 As for content, we are planning to have a room set up for talks with basic audio visual, but perhaps
 you have something else in mind and need an outdoor space? Talk to us and we'll see what we can come up with.
 
-Have an idea for something that doesn't involve Ruby or Rails (or computers at all?), jump in!
+Have an idea for something that doesn't involve Ruby or Rails (or computers at all)?, jump in!
+
+Want to talk, but stuck for ideas? Here are some of the things we are interested to find out more about:
+* Sorbet
+* Your pathway to tech ('traditional' or 'non-traditional')
+* Functional programming in Ruby
+* Ethics and code
 
 ## Getting there
 ### Bus
