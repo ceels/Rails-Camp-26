@@ -1,3 +1,6 @@
+![RailsCamp26 Logo](/26_Rails_Camp_logo.tiff)
+Format: ![Alt Text](url)
+
 # Rails-Camp-26
 15th-18th November 2019 in Kyneton (north of Melbourne, Victoria)
 
